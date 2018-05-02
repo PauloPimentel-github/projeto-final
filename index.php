@@ -1,6 +1,6 @@
 <?php
 ob_start();
-require('./_app/Config.inc.php');
+require('_app/Config.inc.php');
 $Session = new Session;
 ?>
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $Session = new Session;
 
         <!--[if lt IE 9]>
             <script src="../../_cdn/html5.js"></script>
-         <![endif]-->   
+         <![endif]-->
 
         <?php
         $Link = new Link;

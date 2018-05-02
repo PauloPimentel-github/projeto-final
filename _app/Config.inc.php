@@ -1,9 +1,9 @@
 <?php
 // CONFIGRAÇÕES DO BANCO ####################
-define('HOST', 'localhost');
-define('USER', 'root');
-define('PASS', '');
-define('DBSA', 'wsphp');
+define('HOST', 'vvfv20el7sb2enn3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+define('USER', 'j57s4zu361d619g9');
+define('PASS', 'jyfhdys48lpnhuf6');
+define('DBSA', 'eo5q4ryhaimoz2ul');
 
 // DEFINE SERVIDOR DE E-MAIL ################
 define('MAILUSER', 'paulogansobarman@gmail.com');
@@ -16,7 +16,7 @@ define('SITENAME', 'Cidade Online');
 define('SITEDESC', 'Este site foi desenvolvido no curso de PHP Orientado a Objetos da UPINSIDE TREINAMENTOS. O mesmo utiliza a arquitetura semântica do HTML5 e foi criado com as últimas técnologias disponíveis!');
 
 // DEFINE A BASE DO SITE ####################
-define('HOME', 'http://localhost/curso-de-php/12-projeto-final');
+define('HOME', 'https://paulopimentel-projeto-final.herokuapp.com');
 define('THEME', 'cidadeonline');
 
 define('INCLUDE_PATH', HOME . DIRECTORY_SEPARATOR . 'themes' . DIRECTORY_SEPARATOR . THEME);
