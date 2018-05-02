@@ -21,7 +21,7 @@ $Session = new Session;
         <link rel="stylesheet" href="<?= INCLUDE_PATH; ?>/css/reset.css">
         <link rel="stylesheet" href="<?= INCLUDE_PATH; ?>/css/style.css">
         <link rel="stylesheet" href="<?= HOME; ?>/_cdn/shadowbox/shadowbox.css">
-        <link href='http://fonts.googleapis.com/css?family=Baumans' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Baumans' rel='stylesheet' type='text/css'>
 
     </head>
     <body>
